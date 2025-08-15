@@ -11,7 +11,7 @@ I love solving challenging problems and delivering impactful, user-friendly appl
 - 🏆 Solved **500+ problems** on LeetCode, GFG & HackerRank (Gold Badge in Problem Solving)  
 - 🌱 Exploring **System Design** and **Cloud Deployment**  
 - 💬 Ask me about **JavaScript, REST APIs, performance optimization, and MERN stack**  
-- 📫 Contact: **yadavmanya1902@gmail.com**  
+ 
 
 ---
 
