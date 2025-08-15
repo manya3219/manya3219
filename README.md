@@ -49,7 +49,7 @@ I love solving challenging problems and delivering impactful, user-friendly appl
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manya3219&show_icons=true&theme=tokyonight)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manya3219&layout=compact&theme=tokyonight)
 
 ---
