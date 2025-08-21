@@ -51,8 +51,10 @@ I love solving challenging problems and delivering impactful, user-friendly appl
 
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manya3219&layout=compact&theme=tokyonight)
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=10)](https://git.io/streak-stats)
+##  ​ Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=manya3219&theme=radical&border_radius=10)](https://git.io/streak-stats)
+
 
 
 ---
